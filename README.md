@@ -1,7 +1,7 @@
-- 👋 Hi, sou o @Pacientman
+- 👋 Hi, sou o @Pacientman.
 - 👀 estou interessado  aprender mais sobre o universo back-end,banco de dados, servidores.
 - 🌱 Estou aprendendio sobre front-end e afins, aprendendo javascript  e  aplicando tudo no desenvolvimento web.
-- 💞️ Pretendo colaborar  projetos e aprimorar minhas habilidadespara me tonar um excelente profissional
+- 💞️ Pretendo colaborar  projetos e aprimorar minhas habilidadespara me tonar um excelente profissional.
 
 
 <
